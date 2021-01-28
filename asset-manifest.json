@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pushup-counter/static/css/main.229d0cf6.chunk.css",
-    "main.js": "/pushup-counter/static/js/main.755b3f82.chunk.js",
-    "main.js.map": "/pushup-counter/static/js/main.755b3f82.chunk.js.map",
-    "runtime-main.js": "/pushup-counter/static/js/runtime-main.a6b7538b.js",
-    "runtime-main.js.map": "/pushup-counter/static/js/runtime-main.a6b7538b.js.map",
-    "static/js/2.018e6c65.chunk.js": "/pushup-counter/static/js/2.018e6c65.chunk.js",
-    "static/js/2.018e6c65.chunk.js.map": "/pushup-counter/static/js/2.018e6c65.chunk.js.map",
-    "static/js/3.a4c12960.chunk.js": "/pushup-counter/static/js/3.a4c12960.chunk.js",
-    "static/js/3.a4c12960.chunk.js.map": "/pushup-counter/static/js/3.a4c12960.chunk.js.map",
+    "main.css": "/pushup-counter/static/css/main.715fe4bd.chunk.css",
+    "main.js": "/pushup-counter/static/js/main.908d1838.chunk.js",
+    "main.js.map": "/pushup-counter/static/js/main.908d1838.chunk.js.map",
+    "runtime-main.js": "/pushup-counter/static/js/runtime-main.6f42e5fe.js",
+    "runtime-main.js.map": "/pushup-counter/static/js/runtime-main.6f42e5fe.js.map",
+    "static/js/2.a2c70518.chunk.js": "/pushup-counter/static/js/2.a2c70518.chunk.js",
+    "static/js/2.a2c70518.chunk.js.map": "/pushup-counter/static/js/2.a2c70518.chunk.js.map",
+    "static/js/3.6246a620.chunk.js": "/pushup-counter/static/js/3.6246a620.chunk.js",
+    "static/js/3.6246a620.chunk.js.map": "/pushup-counter/static/js/3.6246a620.chunk.js.map",
     "index.html": "/pushup-counter/index.html",
     "service-worker.js": "/pushup-counter/service-worker.js",
     "service-worker.js.map": "/pushup-counter/service-worker.js.map",
-    "static/css/main.229d0cf6.chunk.css.map": "/pushup-counter/static/css/main.229d0cf6.chunk.css.map",
-    "static/js/2.018e6c65.chunk.js.LICENSE.txt": "/pushup-counter/static/js/2.018e6c65.chunk.js.LICENSE.txt",
+    "static/css/main.715fe4bd.chunk.css.map": "/pushup-counter/static/css/main.715fe4bd.chunk.css.map",
+    "static/js/2.a2c70518.chunk.js.LICENSE.txt": "/pushup-counter/static/js/2.a2c70518.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/pushup-counter/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6b7538b.js",
-    "static/js/2.018e6c65.chunk.js",
-    "static/css/main.229d0cf6.chunk.css",
-    "static/js/main.755b3f82.chunk.js"
+    "static/js/runtime-main.6f42e5fe.js",
+    "static/js/2.a2c70518.chunk.js",
+    "static/css/main.715fe4bd.chunk.css",
+    "static/js/main.908d1838.chunk.js"
   ]
 }
