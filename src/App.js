@@ -125,7 +125,7 @@ function App() {
 
       </div>
       <p style={{margin: "5%", fontSize: "20px", visibility: isComplete ? 'visible':'hidden'}}>
-        Get into push-up position and place device on the floor infront of your face. On your decent, tap the screen with your nose to start the count. You must complete each push-up within 5 seconds of each other.
+        Get into push-up position and place device on the floor infront of your face. On your descent, tap the screen with your nose to start the count. You must complete each push-up within 5 seconds of each other.
       </p>
     </div>
   );
